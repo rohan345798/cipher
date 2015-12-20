@@ -1,1 +1,1 @@
-def encrypt():pass
+def encrypt(m,key):pass
